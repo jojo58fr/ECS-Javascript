@@ -1,4 +1,5 @@
 # ECS-Javascript
+[:computer: Downloading & Release notes](https://github.com/jojo58fr/ECS-Javascript/releases)   |   [:pushpin: Documentation](https://github.com/jojo58fr/ECS-Javascript/wiki) | [:warning: Known issues](#known-issues) | [:bug: Report bugs](https://github.com/jojo58fr/ECS-Javascript/issues)
 > Lightweight ECS implementation for Javascript (W/ PIXI Support) - Code used to make the Antlia Project
 
 ## Table of contents
